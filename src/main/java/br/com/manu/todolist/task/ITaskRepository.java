@@ -1,6 +1,5 @@
 package br.com.manu.todolist.task;
 
-import java.util.Optional;
 import java.util.UUID;
 import java.util.List;
 
