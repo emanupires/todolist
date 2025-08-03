@@ -25,7 +25,3 @@ A aplicação está disponível em (deploy feito com Docker / testes feitos com 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
 </p>
 
-- [H2 Database](https://www.h2database.com/html/main.html) *(ou outro banco que estiver usando)*
-
-## 📁 Estrutura do Projeto
-
