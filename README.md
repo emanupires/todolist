@@ -15,7 +15,7 @@ Uma API RESTful criada em **Java** com **Spring Boot**, que permite realizar ope
 
 A aplicação está disponível em (deploy feito com Docker / testes feitos com Postman):
 
-> 📎 [https://todolist-r5vj.onrender.com](https://todolist-r5vj.onrender.com))
+> 📎 [https://todolist-r5vj.onrender.com](https://todolist-r5vj.onrender.com)
 
 ## ⚙️ Tecnologias Utilizadas
 
